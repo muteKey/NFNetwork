@@ -1,0 +1,4 @@
+NFNetwork
+=========
+
+neuro-fuzzy network
